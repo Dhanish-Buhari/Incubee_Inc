@@ -1,0 +1,36 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "3184000000009090",
+      "name": "IncuBe",
+      "domain": {
+        "id": "50010711549",
+        "name": "incube-60016939414.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60016939414",
+          "name": "Development",
+          "type": 3,
+          "env_status": "Active",
+          "project_details": {
+            "project_name": "IncuBe",
+            "id": "3184000000009090",
+            "project_type": "Live"
+          },
+          "is_default": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "incu_be_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

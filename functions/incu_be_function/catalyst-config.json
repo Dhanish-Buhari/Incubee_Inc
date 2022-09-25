@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "incu_be_function",
+		"stack": "node16",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

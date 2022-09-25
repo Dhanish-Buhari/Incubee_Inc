@@ -1,0 +1,9 @@
+{
+	"name": "incu_be_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "20euee020@skcet.ac.in",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
